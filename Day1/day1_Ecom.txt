@@ -1,0 +1,9 @@
+http request
+
+1.put - update
+2.Get - Retrive
+3.Delete- delete
+4.Post -  insert
+5.patch - update
+
+
