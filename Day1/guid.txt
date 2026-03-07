@@ -4,6 +4,3 @@ intelj idea
 https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
 
 
-
-Spss 
-abc@3210
